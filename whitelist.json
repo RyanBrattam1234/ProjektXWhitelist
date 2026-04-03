@@ -1,3 +1,11 @@
 {
-  "hwid_entries": []
+  "hwid_entries": [
+    {
+      "hwid": "28664af509dd43e3f61983b6dd644dbd081741f442aba4afdd09598e7ab58b45",
+      "discord_id": 1136331830421897326,
+      "discord_tag": "ryan_brattan10",
+      "added_at": "2026-04-03T23:43:01.948511Z",
+      "expires_at": "2026-04-04T23:43:01.948511Z"
+    }
+  ]
 }
