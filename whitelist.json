@@ -1,13 +1,6 @@
 {
     "hwid_entries": [
         {
-            "hwid": "dasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd",
-            "discord_id": 1489757460230176850,
-            "discord_tag": "Brattanhub#3100",
-            "added_at": "2026-04-04T00:46:09.885360Z",
-            "expires_at": "2026-04-04T01:46:09.885360Z"
-        },
-        {
             "hwid": "9464A6D3-EF81-4F3E-A169-1ABA966ED5AB",
             "discord_id": 1136331830421897326,
             "discord_tag": "ryan_brattan10",
@@ -15,7 +8,5 @@
             "expires_at": "2026-04-05T01:19:18.176160Z"
         }
     ],
-    "cooldowns": {
-        
-    }
+    "cooldowns": {}
 }
