@@ -1,4 +1,14 @@
 {
-    "hwid_entries": [],
-    "cooldowns": {}
+    "hwid_entries": [
+        {
+            "hwid": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+            "discord_id": 1136331830421897326,
+            "discord_tag": "ryan_brattan10",
+            "added_at": "2026-04-05T15:29:15.994023Z",
+            "expires_at": "2026-04-06T15:29:15.994023Z"
+        }
+    ],
+    "cooldowns": {
+        "1136331830421897326": "2026-04-06T15:29:15.994023Z"
+    }
 }
