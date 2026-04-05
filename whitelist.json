@@ -1,13 +1,5 @@
 {
-    "hwid_entries": [
-        {
-            "hwid": "tsadas d123123 123123 12 312 312",
-            "discord_id": 1067517839558316174,
-            "discord_tag": "ryanbrattan2.0",
-            "added_at": "2026-04-05T14:55:57.049312Z",
-            "expires_at": "2026-04-05T15:55:57.049312Z"
-        }
-    ],
+    "hwid_entries": [],
     "cooldowns": {
         "1067517839558316174": "2026-04-05T16:56:43.411743Z"
     }
